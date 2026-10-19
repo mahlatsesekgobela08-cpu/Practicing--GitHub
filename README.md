@@ -1,2 +1,0 @@
-# Practicing--GitHub
-First attempt 
